@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UpdateConfiguration>
+  <UpdateConfig Name ="UANGEL_EMS">
+    <UpdateInfo useAutoUpdate ="true">
+      <Database>
+        <IP>192.168.1.89</IP>
+        <Port>3306</Port>
+        <DatabaseName>bmscems</DatabaseName>
+        <User>oms</User>
+        <Password>oms.123@OMS</Password>
+      </Database>
+      <CurrentVersion></CurrentVersion>
+      <ClientFileName>Main.exe</ClientFileName>
+      <Arguments></Arguments>
+    </UpdateInfo>
+  </UpdateConfig>
+</UpdateConfiguration>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UpdateInfo>
+  <Database>
+    <IP>dev.i-mobilepark.com</IP>
+    <Port>3308</Port>
+    <DatabaseName>SSES</DatabaseName>
+    <User>pcenergy</User>
+    <Password>pcenergy123</Password>
+  </Database>
+  <CurrentVersion></CurrentVersion>
+</UpdateInfo>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SaveEnergy>
+  <UsedSec>00:00:00</UsedSec>
+  <UsedOperation>00:00:00</UsedOperation>
+  <UsedKwh>0</UsedKwh>
+  <UsedCost>0</UsedCost>
+  <Co2>0</Co2>
+  <Tree>0</Tree>
+  <IsSend>true</IsSend>
+</SaveEnergy>

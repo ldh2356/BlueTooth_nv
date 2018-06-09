@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UpdateConfiguration>
+  <UpdateConfig Name ="Phase2_Test">
+    <UpdateInfo useAutoUpdate ="true">
+      <Database>
+        <IP>192.168.1.89</IP>
+        <Port>3306</Port>
+        <DatabaseName>bmscems</DatabaseName>
+        <User>omp</User>
+        <Password>omp.123</Password>
+      </Database>
+      <CurrentVersion></CurrentVersion>
+      <ClientFileName>Main.exe</ClientFileName>
+      <Arguments></Arguments>
+    </UpdateInfo>
+  </UpdateConfig>
+ <UpdateConfig Name ="UANGE_BMSC_DP">
+    <UpdateInfo useAutoUpdate ="true">
+      <Database>
+        <IP>192.168.1.159</IP>
+        <Port>3306</Port>
+        <DatabaseName>bmscems</DatabaseName>
+        <User>omp</User>
+        <Password>omp.123</Password>
+      </Database>
+      <CurrentVersion>2014-02-26 11:11:13</CurrentVersion>
+      <ClientFileName>Main.exe</ClientFileName>
+      <Arguments></Arguments>
+    </UpdateInfo>
+  </UpdateConfig>
+</UpdateConfiguration>
