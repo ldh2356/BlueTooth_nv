@@ -274,8 +274,10 @@ namespace DeviceAgents
                         // 아이폰의 경우 락카운트가 1 이상인경우 서비스 통신실패로 간주
                         if (EnumMobileModel.IOS == mobileModel)
                         {
-                            log.write("==== IOS 락 카운트가 1 이상인 경우 서비스 통신 실패로 간주 ====");
-                            if (LockCount > 1)
+                            int iosLockCount = 3;
+
+                            log.write($"==== IOS 락 카운트가 {iosLockCount} 이상인 경우 서비스 통신 실패로 간주 ====");
+                            if (LockCount > iosLockCount)
                             {
                                 IsServiced = false;
                             }
